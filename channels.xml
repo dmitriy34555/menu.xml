@@ -13,7 +13,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8"
+			"url": "http://zigfreed.ru:81/CH/38aa8a9738bd74fe2fe2f7fec20323ce/index.m3u8"
 		}],
 		"themes": [17, 19],
 		"full_logo": "/sdp/mos/nclogo1589611644340.png",
@@ -32,7 +32,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8"
+			"url": "http://zigfreed.ru:81/CH/81be45d78eb59e0dd5d3efb25c1a3d5a/index.m3u8"
 		}],
 		"themes": [17],
 		"full_logo": "/sdp/ural/nclogo1525680745523.png",
