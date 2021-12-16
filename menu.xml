@@ -74,16 +74,7 @@
 			},
 			"icon": "/images/bqo1mvloldao2j46lpg0.png"
 		},
-		{
-			"id": 18,
-			"icon": "",
-			"title": "WEB CAMERA",
-			"target": {
-				"type": "tv",
-				"link": null
-			}
-		},
-		{
+	       {
 			"id": 17,
 			"icon": "",
 			"title": "HD и 4K",
