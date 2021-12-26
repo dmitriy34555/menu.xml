@@ -51,7 +51,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8"
+			"url": "http://api.peers.tv/timeshift/1kanal/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NDA2MzMyOTYsImlhdCI6MTY0MDU0Njg5NiwiY2lkIjo2LCJ1aWQiOjQ3MzQ3NzczMSwicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.IIaXOHrB0kVbyvfLYBV6j7_rsdQIY_lpR0og07jS8ro&offset=0001"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1529398530175.png",
