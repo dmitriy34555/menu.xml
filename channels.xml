@@ -10957,7 +10957,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://myott.top/stream/R8MK45VDAP/126.m3u8"
+			"url": tvg-rec="7" timeshift="7" "http://myott.top/stream/R8MK45VDAP/126.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533656979515.png",
