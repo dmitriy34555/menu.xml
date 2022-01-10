@@ -2540,7 +2540,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8"
+			"url": "http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514116881.png",
@@ -2711,7 +2711,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a08t/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1540547028333.png",
@@ -2901,7 +2901,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a06l/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1524126302829.png",
@@ -2977,7 +2977,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a08q/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547076450742.png",
@@ -2996,7 +2996,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a08x/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547076333999.png",
@@ -10615,7 +10615,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8"
+			"url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514245957.png",
@@ -10634,7 +10634,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8"
+			"url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514267143.png",
@@ -10653,7 +10653,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8"
+			"url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514287074.png",
@@ -10672,7 +10672,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8"
+			"url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514331524.png",
@@ -10957,7 +10957,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a08s/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533656979515.png",
@@ -10976,7 +10976,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a090/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533657004424.png",
@@ -10995,7 +10995,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8"
+			"url": "http://31.173.178.110:8004/play/a08r/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533657027685.png",
