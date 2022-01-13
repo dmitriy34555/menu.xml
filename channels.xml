@@ -21,7 +21,7 @@
 		"background": "/sdp/mos/nclogo1589611650970.png"
 	}, {
 		"number": 998,
-		"name": "Tеlеgram: ＠ᴡіոk_news ← Чат-канал: ＠ᴡіոk_free ← Мод от CopyΜіѕt",
+		"name": "Tеlеgram: Мод от ＠Ferstnaym",
 		"id": 1000999,
 		"is_barker": false,
 		"is_erotic": false,
@@ -51,7 +51,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://ttv.forktv.me:8080/vipcomedy-194/index.m3u8"
+			"url": "http://ttv.forktv.me:8080/pervypl2-701/index.m3u8"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1529398530175.png",
@@ -70,7 +70,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/pervypl4-731/index.m3u88"
 		}],
 		"themes": [1],
 		"full_logo": "/sdp/ct/nclogo1529397813326.png",
@@ -89,165 +89,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/pervypl6-751/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1529397813326.png",
 		"logo": "/sdp/ct/nclogo1529397835779.png",
 		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 61,
-		"name": "Первый канал (+2)",
-		"id": 1000531,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 62,
-		"name": "Первый канал (+3)",
-		"id": 1000069,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 63,
-		"name": "Первый канал (+4)",
-		"id": 1000069,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 64,
-		"name": "Первый канал (+5)",
-		"id": 1000069,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 65,
-		"name": "Первый канал (+6)",
-		"id": 325760829,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_1TV/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
-		"number": 66,
-		"name": "Первый канал (+7)",
-		"id": 325760829,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1529398052188.png",
-		"logo": "/sdp/dv/nclogo1529398054742.png",
-		"background": "/sdp/dv/nclogo1529398057391.png"
-	}, {
-		"number": 67,
-		"name": "Первый канал (+8)",
-		"id": 264212699,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1570089096855.png",
-		"logo": "/sdp/dv/nclogo1570089100872.png",
-		"background": "/sdp/dv/nclogo1570089104320.png"
-	}, {
-		"number": 68,
-		"name": "Первый канал (+9)",
-		"id": 325760829,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1529397813326.png",
-		"logo": "/sdp/ct/nclogo1529397835779.png",
-		"background": "/sdp/ct/nclogo1529398136584.png"
-	}, {
+	},  {
 		"number": 922,
 		"name": "Россия 1 HD",
 		"id": 11989811,
@@ -260,7 +108,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rossia1-173/index.m3u8"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1497612738365.png",
@@ -279,7 +127,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rossia1-2/index.m3u8"
 		}],
 		"themes": [1],
 		"full_logo": "/sdp/ct/nclogo1497429979233.png",
@@ -298,165 +146,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rossia1pl2-702/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1497429979233.png",
 		"logo": "/sdp/ct/nclogo1497429985262.png",
 		"background": "/sdp/ct/nclogo1497429990175.png"
-	}, {
-		"number": 70,
-		"name": "Россия 1 (+2)",
-		"id": 1000527,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497429979233.png",
-		"logo": "/sdp/ct/nclogo1497429985262.png",
-		"background": "/sdp/ct/nclogo1497429990175.png"
-	}, {
-		"number": 71,
-		"name": "Россия 1 (+3)",
-		"id": 1000174,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497429979233.png",
-		"logo": "/sdp/ct/nclogo1497429985262.png",
-		"background": "/sdp/ct/nclogo1497429990175.png"
-	}, {
-		"number": 72,
-		"name": "Россия 1 (+4)",
-		"id": 1000174,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497429979233.png",
-		"logo": "/sdp/ct/nclogo1497429985262.png",
-		"background": "/sdp/ct/nclogo1497429990175.png"
-	}, {
-		"number": 73,
-		"name": "Россия 1 (+5)",
-		"id": 1000174,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497429979233.png",
-		"logo": "/sdp/ct/nclogo1497429985262.png",
-		"background": "/sdp/ct/nclogo1497429990175.png"
-	}, {
-		"number": 74,
-		"name": "Россия 1 (+6)",
-		"id": 350819095,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1497319880104.png",
-		"logo": "/sdp/dv/nclogo1497319899441.png",
-		"background": "/sdp/dv/nclogo1497319908138.png"
-	}, {
-		"number": 76,
-		"name": "Россия 1 (+7)",
-		"id": 350819095,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1497319880104.png",
-		"logo": "/sdp/dv/nclogo1497319899441.png",
-		"background": "/sdp/dv/nclogo1497319908138.png"
-	}, {
-		"number": 77,
-		"name": "Россия 1 (+8)",
-		"id": 350819095,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1497319880104.png",
-		"logo": "/sdp/dv/nclogo1497319899441.png",
-		"background": "/sdp/dv/nclogo1497319908138.png"
-	}, {
-		"number": 78,
-		"name": "Россия 1 (+9)",
-		"id": 350819095,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1497319880104.png",
-		"logo": "/sdp/dv/nclogo1497319899441.png",
-		"background": "/sdp/dv/nclogo1497319908138.png"
-	}, {
+	},  {
 		"number": 902,
 		"name": "Матч! ТВ HD",
 		"id": 74658596,
@@ -469,7 +165,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/matchtv-397/index.m3u8"
 		}],
 		"themes": [7, 19],
 		"full_logo": "/sdp/mos/nclogo1572956617832.png",
@@ -488,7 +184,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/matchtv-397/index.m3u8"
 		}],
 		"themes": [7],
 		"full_logo": "/sdp/mos/nclogo1572514677030.png",
@@ -507,32 +203,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/ntv-220/index.m3u8"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1516193016598.png",
 		"logo": "/sdp/mos/nclogo1516193019167.png",
 		"background": "/sdp/mos/nclogo1516193021517.png"
-	}, {
-		"number": 4,
-		"name": "НТВ",
-		"id": 1000179,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
-		}],
-		"themes": [1],
-		"full_logo": "/sdp/ct/nclogo1524737541364.png",
-		"logo": "/sdp/ct/nclogo1524737543637.png",
-		"background": "/sdp/ct/nclogo1524737547270.png"
-	}, {
+	},  {
 		"number": 79,
 		"name": "НТВ (+2)",
 		"id": 1074889,
@@ -545,51 +222,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/ntvpl2-704/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1524737541364.png",
 		"logo": "/sdp/ct/nclogo1524737543637.png",
 		"background": "/sdp/ct/nclogo1524737547270.png"
-	}, {
-		"number": 80,
-		"name": "НТВ (+4)",
-		"id": 367486564,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1524737541364.png",
-		"logo": "/sdp/ct/nclogo1524737543637.png",
-		"background": "/sdp/ct/nclogo1524737547270.png"
-	}, {
-		"number": 81,
-		"name": "НТВ (+7)",
-		"id": 322680075,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1524737609027.png",
-		"logo": "/sdp/dv/nclogo1524737611846.png",
-		"background": "/sdp/dv/nclogo1524737615182.png"
-	}, {
+	},  {
 		"number": 5,
 		"name": "Пятый канал",
 		"id": 1000189,
@@ -602,70 +241,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/5kanalru-169/index.m3u8"
 		}],
 		"themes": [1],
 		"full_logo": "/sdp/ct/nclogo1536600415211.png",
 		"logo": "/sdp/ct/nclogo1536600418177.png",
 		"background": "/sdp/ct/nclogo1536600420700.png"
-	}, {
-		"number": 82,
-		"name": "Пятый канал (+2)",
-		"id": 1074812,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1536600415211.png",
-		"logo": "/sdp/ct/nclogo1536600418177.png",
-		"background": "/sdp/ct/nclogo1536600420700.png"
-	}, {
-		"number": 83,
-		"name": "Пятый канал (+4)",
-		"id": 1000189,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1536600415211.png",
-		"logo": "/sdp/ct/nclogo1536600418177.png",
-		"background": "/sdp/ct/nclogo1536600420700.png"
-	}, {
-		"number": 84,
-		"name": "Пятый канал (+7)",
-		"id": 352455932,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1536600451853.png",
-		"logo": "/sdp/dv/nclogo1536600454287.png",
-		"background": "/sdp/dv/nclogo1536600456283.png"
-	}, {
+	},  {
 		"number": 6,
 		"name": "Россия К",
 		"id": 1000194,
@@ -684,64 +266,7 @@
 		"full_logo": "/sdp/ct/nclogo1497430120145.png",
 		"logo": "/sdp/ct/nclogo1497430123838.png",
 		"background": "/sdp/ct/nclogo1497430128378.png"
-	}, {
-		"number": 85,
-		"name": "Россия К (+2)",
-		"id": 1000194,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "vlg",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/vlg/nclogo1497344375928.png",
-		"logo": "/sdp/vlg/nclogo1497344382776.png",
-		"background": "/sdp/vlg/nclogo1497344389873.png"
-	}, {
-		"number": 86,
-		"name": "Россия К (+4)",
-		"id": 1000194,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497430120145.png",
-		"logo": "/sdp/ct/nclogo1497430123838.png",
-		"background": "/sdp/ct/nclogo1497430128378.png"
-	}, {
-		"number": 87,
-		"name": "Россия К (+7)",
-		"id": 352456999,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1497430120145.png",
-		"logo": "/sdp/ct/nclogo1497430123838.png",
-		"background": "/sdp/ct/nclogo1497430128378.png"
-	}, {
+	},  {
 		"number": 7,
 		"name": "Россия 24",
 		"id": 1000184,
@@ -773,89 +298,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/karusel-40/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1602681864854.png",
 		"logo": "/sdp/mos/nclogo1602681867908.png",
 		"background": "/sdp/mos/nclogo1602681870335.png"
-	}, {
-		"number": 88,
-		"name": "Карусель (+2)",
-		"id": 1000204,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "vlg",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/vlg/nclogo1519577843485.png",
-		"logo": "/sdp/vlg/nclogo1519577846863.png",
-		"background": "/sdp/vlg/nclogo1519577851718.png"
-	}, {
-		"number": 89,
-		"name": "Карусель (+4)",
-		"id": 1000204,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1506684533126.png",
-		"logo": "/sdp/mos/nclogo1506684548231.png",
-		"background": "/sdp/mos/nclogo1506684567536.png"
-	}, {
-		"number": 90,
-		"name": "Карусель (+7)",
-		"id": 326123843,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1519578175972.png",
-		"logo": "/sdp/dv/nclogo1519578178115.png",
-		"background": "/sdp/dv/nclogo1519578183370.png"
-	}, {
-		"number": 9,
-		"name": "Общественное телевидение России",
-		"id": 17349814,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8"
-		}],
-		"themes": [1],
-		"full_logo": "/sdp/mos/nclogo1536676739922.png",
-		"logo": "/sdp/mos/nclogo1536676743005.png",
-		"background": "/sdp/mos/nclogo1536676746622.png"
-	}, {
+	},   {
 		"number": 10,
 		"name": "ТВ Центр",
 		"id": 1125456,
@@ -874,64 +323,7 @@
 		"full_logo": "/sdp/ct/nclogo1536609967851.png",
 		"logo": "/sdp/ct/nclogo1536609970717.png",
 		"background": "/sdp/ct/nclogo1536609973808.png"
-	}, {
-		"number": 91,
-		"name": "ТВ Центр (+2)",
-		"id": 1000522,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1536609967851.png",
-		"logo": "/sdp/ct/nclogo1536609970717.png",
-		"background": "/sdp/ct/nclogo1536609973808.png"
-	}, {
-		"number": 92,
-		"name": "ТВ Центр (+4)",
-		"id": 1125456,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1536609967851.png",
-		"logo": "/sdp/ct/nclogo1536609970717.png",
-		"background": "/sdp/ct/nclogo1536609973808.png"
-	}, {
-		"number": 93,
-		"name": "ТВ Центр (+7)",
-		"id": 352461811,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1536610023043.png",
-		"logo": "/sdp/dv/nclogo1536610024779.png",
-		"background": "/sdp/dv/nclogo1536610029295.png"
-	}, {
+	},  {
 		"number": 935,
 		"name": "РЕН ТВ HD",
 		"id": 86095990,
@@ -944,32 +336,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rentv-111/index.m3u8"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1587971054500.png",
 		"logo": "/sdp/mos/nclogo1587971056616.png",
 		"background": "/sdp/mos/nclogo1587971058952.png"
-	}, {
-		"number": 11,
-		"name": "РЕН ТВ",
-		"id": 1125460,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8"
-		}],
-		"themes": [1],
-		"full_logo": "/sdp/ct/nclogo1532358088298.png",
-		"logo": "/sdp/ct/nclogo1532358092002.png",
-		"background": "/sdp/ct/nclogo1532358094724.png"
-	}, {
+	},  {
 		"number": 94,
 		"name": "РЕН ТВ (+2)",
 		"id": 15771365,
@@ -982,51 +355,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rentvpl2-711/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1532358088298.png",
 		"logo": "/sdp/ct/nclogo1532358092002.png",
 		"background": "/sdp/ct/nclogo1532358094724.png"
-	}, {
-		"number": 95,
-		"name": "РЕН ТВ (+4)",
-		"id": 1125460,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1532358088298.png",
-		"logo": "/sdp/ct/nclogo1532358092002.png",
-		"background": "/sdp/ct/nclogo1532358094724.png"
-	}, {
-		"number": 96,
-		"name": "РЕН ТВ (+7)",
-		"id": 326124717,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1532358088298.png",
-		"logo": "/sdp/ct/nclogo1532358092002.png",
-		"background": "/sdp/ct/nclogo1532358094724.png"
-	}, {
+	},  {
 		"number": 12,
 		"name": "Спас",
 		"id": 1144472,
@@ -1039,7 +374,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/spas-60/index.m3u8"
 		}],
 		"themes": [13],
 		"full_logo": "/sdp/mos/nclogo1569483524977.png",
@@ -1058,7 +393,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/sts-8/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/ct/nclogo1533311356055.png",
@@ -1077,7 +412,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/stspl2-713/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1533311356055.png",
@@ -1096,32 +431,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/stspl4-743/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/ct/nclogo1533311356055.png",
 		"logo": "/sdp/ct/nclogo1533311357943.png",
 		"background": "/sdp/ct/nclogo1533311359954.png"
-	}, {
-		"number": 100,
-		"name": "СТС (+7)",
-		"id": 322678952,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1533311356055.png",
-		"logo": "/sdp/ct/nclogo1533311357943.png",
-		"background": "/sdp/ct/nclogo1533311359954.png"
-	}, {
+	},  {
 		"number": 14,
 		"name": "Домашний",
 		"id": 1125469,
@@ -1134,70 +450,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/domashny-115/index.m3u8"
 		}],
 		"themes": [10],
 		"full_logo": "/sdp/ct/nclogo1519580577683.png",
 		"logo": "/sdp/ct/nclogo1519580580971.png",
 		"background": "/sdp/ct/nclogo1519580584802.png"
-	}, {
-		"number": 195,
-		"name": "Домашний (+2)",
-		"id": 1120409,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1519580577683.png",
-		"logo": "/sdp/ct/nclogo1519580580971.png",
-		"background": "/sdp/ct/nclogo1519580584802.png"
-	}, {
-		"number": 196,
-		"name": "Домашний (+4)",
-		"id": 1125469,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ct/nclogo1519580577683.png",
-		"logo": "/sdp/ct/nclogo1519580580971.png",
-		"background": "/sdp/ct/nclogo1519580584802.png"
-	}, {
-		"number": 197,
-		"name": "Домашний (+7)",
-		"id": 326126317,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1519581038159.png",
-		"logo": "/sdp/dv/nclogo1519581037999.png",
-		"background": "/sdp/dv/nclogo1519581046102.png"
-	}, {
+	},  {
 		"number": 15,
 		"name": "ТВ 3",
 		"id": 1058216,
@@ -1235,45 +494,7 @@
 		"full_logo": "/sdp/mos/nclogo1507133404466.png",
 		"logo": "/sdp/mos/nclogo1507133412411.png",
 		"background": "/sdp/mos/nclogo1507133418445.png"
-	}, {
-		"number": 157,
-		"name": "ТВ 3 (+4)",
-		"id": 1058216,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1507133404466.png",
-		"logo": "/sdp/mos/nclogo1507133412411.png",
-		"background": "/sdp/mos/nclogo1507133418445.png"
-	}, {
-		"number": 158,
-		"name": "ТВ 3 (+7)",
-		"id": 326125551,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1519582036914.png",
-		"logo": "/sdp/dv/nclogo1519582037987.png",
-		"background": "/sdp/dv/nclogo1519582045948.png"
-	}, {
+	},  {
 		"number": 16,
 		"name": "Пятница!",
 		"id": 1130915,
@@ -1286,7 +507,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/piatnica-9/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/mos/nclogo1522312220352.png",
@@ -1305,51 +526,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/piatnica-9930/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/mos/nclogo1522312220352.png",
 		"logo": "/sdp/mos/nclogo1522312245447.png",
 		"background": "/sdp/mos/nclogo1522312262057.png"
-	}, {
-		"number": 161,
-		"name": "Пятница! (+4)",
-		"id": 1130915,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1522312220352.png",
-		"logo": "/sdp/mos/nclogo1522312245447.png",
-		"background": "/sdp/mos/nclogo1522312262057.png"
-	}, {
-		"number": 162,
-		"name": "Пятница! (+7)",
-		"id": 352467730,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1522316673785.png",
-		"logo": "/sdp/dv/nclogo1522316674499.png",
-		"background": "/sdp/dv/nclogo1522316682649.png"
-	}, {
+	},  {
 		"number": 17,
 		"name": "Звезда",
 		"id": 1125476,
@@ -1362,70 +545,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/zvezda-170/index.m3u8"
 		}],
 		"themes": [1],
 		"full_logo": "/sdp/mos/nclogo1536610730242.png",
 		"logo": "/sdp/mos/nclogo1536610733090.png",
 		"background": "/sdp/mos/nclogo1536610736043.png"
-	}, {
-		"number": 171,
-		"name": "Звезда (+2)",
-		"id": 1000530,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1536610730242.png",
-		"logo": "/sdp/mos/nclogo1536610733090.png",
-		"background": "/sdp/mos/nclogo1536610736043.png"
-	}, {
-		"number": 172,
-		"name": "Звезда (+4)",
-		"id": 1125476,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1536610730242.png",
-		"logo": "/sdp/mos/nclogo1536610733090.png",
-		"background": "/sdp/mos/nclogo1536610736043.png"
-	}, {
-		"number": 173,
-		"name": "Звезда (+7)",
-		"id": 353481552,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1536610822520.png",
-		"logo": "/sdp/dv/nclogo1536610818967.png",
-		"background": "/sdp/dv/nclogo1536610824275.png"
-	}, {
+	},  {
 		"number": 18,
 		"name": "Мир",
 		"id": 1130945,
@@ -1438,7 +564,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/detskymir-32/index.m3u8"
 		}],
 		"themes": [1],
 		"full_logo": "/sdp/mos/nclogo1508243678871.png",
@@ -1463,45 +589,7 @@
 		"full_logo": "/sdp/vlg/nclogo1519582534761.png",
 		"logo": "/sdp/vlg/nclogo1519582536964.png",
 		"background": "/sdp/vlg/nclogo1519582540763.png"
-	}, {
-		"number": 178,
-		"name": "Мир (+4)",
-		"id": 1130945,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1508243678871.png",
-		"logo": "/sdp/mos/nclogo1508243685149.png",
-		"background": "/sdp/mos/nclogo1508243691118.png"
-	}, {
-		"number": 179,
-		"name": "Мир (+7)",
-		"id": 353482656,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1519582650604.png",
-		"logo": "/sdp/dv/nclogo1519582654236.png",
-		"background": "/sdp/dv/nclogo1519582659772.png"
-	}, {
+	},  {
 		"number": 957,
 		"name": "ТНТ HD",
 		"id": 91989434,
@@ -1514,32 +602,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tnt-86/index.m3u8"
 		}],
 		"themes": [3, 19],
 		"full_logo": "/sdp/mos/nclogo1508420635111.png",
 		"logo": "/sdp/mos/nclogo1508420639403.png",
 		"background": "/sdp/mos/nclogo1508420642613.png"
-	}, {
-		"number": 19,
-		"name": "ТНТ",
-		"id": 1000209,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
-		}],
-		"themes": [3],
-		"full_logo": "/sdp/mos/nclogo1525334027576.png",
-		"logo": "/sdp/mos/nclogo1525334031783.png",
-		"background": "/sdp/mos/nclogo1504536487832.png"
-	}, {
+	},  {
 		"number": 191,
 		"name": "ТНТ (+2)",
 		"id": 1000532,
@@ -1552,51 +621,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tntpl2-719/index.m3u8"
 		}],
 		"themes": [15],
 		"full_logo": "/sdp/mos/nclogo1525334027576.png",
 		"logo": "/sdp/mos/nclogo1525334031783.png",
 		"background": "/sdp/mos/nclogo1504536487832.png"
-	}, {
-		"number": 192,
-		"name": "ТНТ (+4)",
-		"id": 1000209,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1525334027576.png",
-		"logo": "/sdp/mos/nclogo1525334031783.png",
-		"background": "/sdp/mos/nclogo1504536487832.png"
-	}, {
-		"number": 198,
-		"name": "ТНТ (+7)",
-		"id": 322176675,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1577463069214.png",
-		"logo": "/sdp/dv/nclogo1577463062562.png",
-		"background": "/sdp/dv/nclogo1577463054271.png"
-	}, {
+	},  {
 		"number": 20,
 		"name": "Муз ТВ",
 		"id": 1125412,
@@ -1615,66 +646,9 @@
 		"full_logo": "/sdp/mos/nclogo1536675148376.png",
 		"logo": "/sdp/mos/nclogo1536675153566.png",
 		"background": "/sdp/mos/nclogo1536675157511.png"
-	}, {
-		"number": 180,
-		"name": "Муз ТВ (+2)",
-		"id": 1120840,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/mos/nclogo1536675148376.png",
-		"logo": "/sdp/mos/nclogo1536675153566.png",
-		"background": "/sdp/mos/nclogo1536675157511.png"
-	}, {
-		"number": 181,
-		"name": "Муз ТВ (+4)",
-		"id": 25376361,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1536675004923.png",
-		"logo": "/sdp/sib/nclogo1536675011642.png",
-		"background": "/sdp/sib/nclogo1536675023136.png"
-	}, {
-		"number": 182,
-		"name": "Муз ТВ (+7)",
-		"id": 443233189,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1536675004923.png",
-		"logo": "/sdp/sib/nclogo1536675011642.png",
-		"background": "/sdp/sib/nclogo1536675023136.png"
-	}, {
+	},  {
 		"number": 821,
-		"name": "ВОТтв HD",
+		"name": "ВОLT тв HD",
 		"id": 71530895,
 		"is_barker": false,
 		"is_erotic": false,
@@ -1704,89 +678,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/moskva24-163/index.m3u8"
 		}],
 		"themes": [16],
 		"full_logo": "/sdp/mos/nclogo1583844644861.png",
 		"logo": "/sdp/mos/nclogo1583844647603.png",
 		"background": "/sdp/mos/nclogo1583844650401.png"
-	}, {
-		"number": 823,
-		"name": "ТиВиСи HD",
-		"id": 2302727,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_TIVICI/variant.m3u8"
-		}],
-		"themes": [16, 19],
-		"full_logo": "/sdp/sib/nclogo1523898441354.png",
-		"logo": "/sdp/sib/nclogo1523898444160.png",
-		"background": "/sdp/sib/nclogo1523898447588.png"
-	}, {
-		"number": 824,
-		"name": "Арктика 24 HD",
-		"id": 69331759,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8"
-		}],
-		"themes": [16, 19],
-		"full_logo": "/sdp/ural/broadcastChannel1542282101279.jpg",
-		"logo": "/sdp/ural/broadcastChannel1542282104030.jpg",
-		"background": "/sdp/ural/nclogo1525680752433.png"
-	}, {
-		"number": 825,
-		"name": "Доверие",
-		"id": 11800609,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8"
-		}],
-		"themes": [16],
-		"full_logo": "/sdp/mos/nclogo1515662710213.png",
-		"logo": "/sdp/mos/nclogo1515662712561.png",
-		"background": "/sdp/mos/nclogo1515662714973.png"
-	}, {
-		"number": 826,
-		"name": "Импульс HD",
-		"id": 297170958,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8"
-		}],
-		"themes": [16, 19],
-		"full_logo": "/sdp/ural/broadcastChannel1558583495096.png",
-		"logo": "/sdp/ural/broadcastChannel1558583498243.png",
-		"background": "/sdp/ural/nclogo1525680752433.png"
-	}, {
+	},  {
 		"number": 183,
 		"name": "Че!",
 		"id": 1125411,
@@ -1799,127 +697,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/che-109/index.m3u8"
 		}],
 		"themes": [9],
 		"full_logo": "/sdp/ct/nclogo1549532917385.png",
 		"logo": "/sdp/ct/nclogo1549532920459.png",
 		"background": "/sdp/ct/nclogo1549532924136.png"
-	}, {
-		"number": 184,
-		"name": "Че! (+2)",
-		"id": 1120238,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ural/nclogo1549533119483.png",
-		"logo": "/sdp/ural/nclogo1549533123332.png",
-		"background": "/sdp/ural/nclogo1549533126380.png"
-	}, {
-		"number": 185,
-		"name": "Че! (+4)",
-		"id": 27782759,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1549533086502.png",
-		"logo": "/sdp/sib/nclogo1549533089114.png",
-		"background": "/sdp/sib/nclogo1549533092673.png"
-	}, {
-		"number": 186,
-		"name": "Че! (+7)",
-		"id": 213581,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1549533086502.png",
-		"logo": "/sdp/sib/nclogo1549533089114.png",
-		"background": "/sdp/sib/nclogo1549533092673.png"
-	}, {
-		"number": 28,
-		"name": "Shopping live",
-		"id": 18234954,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/variant.m3u8"
-		}],
-		"themes": [17],
-		"full_logo": "/sdp/mos/nclogo1497532296878.png",
-		"logo": "/sdp/mos/nclogo1497532302974.png",
-		"background": "/sdp/mos/nclogo1497532306483.png"
-	}, {
-		"number": 29,
-		"name": "Известия HD",
-		"id": 77742527,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8"
-		}],
-		"themes": [2, 19],
-		"full_logo": "/sdp/mos/nclogo1543571854883.png",
-		"logo": "/sdp/mos/nclogo1543571857318.png",
-		"background": "/sdp/mos/nclogo1543571860049.png"
-	}, {
-		"number": 30,
-		"name": "Shop&Show",
-		"id": 108753505,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8"
-		}],
-		"themes": [17],
-		"full_logo": "/sdp/mos/nclogo1526305774129.png",
-		"logo": "/sdp/mos/nclogo1526305777080.png",
-		"background": "/sdp/mos/nclogo1526305797038.png"
-	}, {
+	},   {
 		"number": 31,
 		"name": "Russia Today HD",
 		"id": 13755686,
@@ -1932,51 +716,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/russiatoday-244/index.m3u8"
 		}],
 		"themes": [14, 19],
 		"full_logo": "/sdp/mos/nclogo1508932319284.png",
 		"logo": "/sdp/mos/nclogo1508932327599.png",
 		"background": "/sdp/mos/nclogo1508932325132.png"
-	}, {
-		"number": 32,
-		"name": "Ювелирочка",
-		"id": 79810956,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/variant.m3u8"
-		}],
-		"themes": [17],
-		"full_logo": "/sdp/mos/nclogo1514208485912.png",
-		"logo": "/sdp/mos/nclogo1514208498549.png",
-		"background": "/sdp/mos/nclogo1514208504715.png"
-	}, {
-		"number": 33,
-		"name": "DW-TV",
-		"id": 1130940,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8"
-		}],
-		"themes": [14],
-		"full_logo": "/sdp/mos/nclogo1501847463161.png",
-		"logo": "/sdp/mos/nclogo1501847466250.png",
-		"background": "/sdp/mos/nclogo1501847470409.png"
-	}, {
+	},  {
 		"number": 34,
 		"name": "Ю",
 		"id": 1125465,
@@ -1989,70 +735,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/yu-298/index.m3u8"
 		}],
 		"themes": [10],
 		"full_logo": "/sdp/ct/nclogo1536331049265.png",
 		"logo": "/sdp/ct/nclogo1536331052786.png",
 		"background": "/sdp/ct/nclogo1536331055655.png"
-	}, {
-		"number": 187,
-		"name": "Ю (+2)",
-		"id": 1125465,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "vlg",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/vlg/nclogo1536331274592.png",
-		"logo": "/sdp/vlg/nclogo1536331276628.png",
-		"background": "/sdp/vlg/nclogo1536331279570.png"
-	}, {
-		"number": 188,
-		"name": "Ю (+4)",
-		"id": 1125465,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1536331157776.png",
-		"logo": "/sdp/sib/nclogo1536331159105.png",
-		"background": "/sdp/sib/nclogo1536331163727.png"
-	}, {
-		"number": 189,
-		"name": "Ю (+7)",
-		"id": 52927,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1536331089275.png",
-		"logo": "/sdp/dv/nclogo1536331089392.png",
-		"background": "/sdp/dv/nclogo1536331096232.png"
-	}, {
+	},  {
 		"number": 36,
 		"name": "Euronews",
 		"id": 1130935,
@@ -2065,51 +754,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/euronews-17/index.m3u8"
 		}],
 		"themes": [2],
 		"full_logo": "/sdp/mos/nclogo1542017564849.png",
 		"logo": "/sdp/mos/nclogo1542017567886.png",
 		"background": "/sdp/mos/nclogo1542017571286.png"
-	}, {
-		"number": 37,
-		"name": "NHK WORLD-JAPAN",
-		"id": 2370827,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8"
-		}],
-		"themes": [14],
-		"full_logo": "/sdp/mos/nclogo1524210663836.png",
-		"logo": "/sdp/mos/nclogo1524210676220.png",
-		"background": "/sdp/mos/nclogo1524211225597.png"
-	}, {
-		"number": 38,
-		"name": "Leomax24",
-		"id": 50859624,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/variant.m3u8"
-		}],
-		"themes": [17],
-		"full_logo": "/sdp/mos/nclogo1583496304357.png",
-		"logo": "/sdp/mos/nclogo1583496316881.png",
-		"background": "/sdp/mos/nclogo1583496319494.png"
-	}, {
+	},  {
 		"number": 39,
 		"name": "РБК-ТВ",
 		"id": 1130925,
@@ -2122,7 +773,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rbk-34/index.m3u8"
 		}],
 		"themes": [2],
 		"full_logo": "/sdp/mos/nclogo1536614625374.png",
@@ -2141,32 +792,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/mir24-236/index.m3u8"
 		}],
 		"themes": [2],
 		"full_logo": "/sdp/mos/nclogo1536614122484.png",
 		"logo": "/sdp/mos/nclogo1536614125323.png",
 		"background": "/sdp/mos/nclogo1536614129637.png"
-	}, {
-		"number": 41,
-		"name": "CNN International",
-		"id": 84819188,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8"
-		}],
-		"themes": [14],
-		"full_logo": "/sdp/mos/nclogo1536651590942.png",
-		"logo": "/sdp/mos/nclogo1536651593599.png",
-		"background": "/sdp/mos/nclogo1536651596044.png"
-	}, {
+	},  {
 		"number": 42,
 		"name": "360° HD",
 		"id": 7937480,
@@ -2179,7 +811,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/360podmoskovie-233/index.m3u8"
 		}],
 		"themes": [2, 19],
 		"full_logo": "/sdp/mos/nclogo1524557207303.png",
@@ -2198,279 +830,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/bbc-105/index.m3u8"
 		}],
 		"themes": [14],
 		"full_logo": "/sdp/mos/nclogo1497532360607.png",
 		"logo": "/sdp/mos/nclogo1497532365470.png",
 		"background": "/sdp/mos/nclogo1497532369275.png"
-	}, {
-		"number": 45,
-		"name": "Большая Азия HD",
-		"id": 100326279,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1508418905693.png",
-		"logo": "/sdp/mos/nclogo1508418908813.png",
-		"background": "/sdp/mos/nclogo1508418911527.png"
-	}, {
-		"number": 46,
-		"name": "ВМЕСТЕ-РФ",
-		"id": 21741731,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8"
-		}],
-		"themes": [2],
-		"full_logo": "/sdp/mos/nclogo1535892504685.png",
-		"logo": "/sdp/mos/nclogo1535892507201.png",
-		"background": "/sdp/mos/nclogo1535892510245.png"
-	}, {
-		"number": 47,
-		"name": "ЛДПР ТВ",
-		"id": 91983977,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8"
-		}],
-		"themes": [2],
-		"full_logo": "/sdp/mos/nclogo1515662624685.png",
-		"logo": "/sdp/mos/nclogo1515662627309.png",
-		"background": "/sdp/mos/nclogo1515662629860.png"
-	}, {
-		"number": 48,
-		"name": "Эхо-ТВ",
-		"id": 90818054,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8"
-		}],
-		"themes": [1],
-		"full_logo": "/sdp/mos/nclogo1501847627832.png",
-		"logo": "/sdp/mos/nclogo1501847630533.png",
-		"background": "/sdp/mos/nclogo1501847632845.png"
-	}, {
-		"number": 49,
-		"name": "Красная Линия",
-		"id": 101745269,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8"
-		}],
-		"themes": [2],
-		"full_logo": "/sdp/mos/nclogo1515662672514.png",
-		"logo": "/sdp/mos/nclogo1515662674875.png",
-		"background": "/sdp/mos/nclogo1515662678360.png"
-	}, {
-		"number": 51,
-		"name": "France 24 HD",
-		"id": 1130930,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8"
-		}],
-		"themes": [14, 19],
-		"full_logo": "/sdp/mos/nclogo1542181477626.png",
-		"logo": "/sdp/mos/nclogo1542181483191.png",
-		"background": "/sdp/mos/nclogo1542181487010.png"
-	}, {
-		"number": 52,
-		"name": "360 Новости HD",
-		"id": 115567629,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8"
-		}],
-		"themes": [2, 19],
-		"full_logo": "/sdp/mos/nclogo1533293011586.png",
-		"logo": "/sdp/mos/nclogo1533293014777.png",
-		"background": "/sdp/mos/nclogo1524557213973.png"
-	}, {
-		"number": 54,
-		"name": "Супер",
-		"id": 118361294,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
-		}],
-		"themes": [3],
-		"full_logo": "/sdp/mos/nclogo1536562890779.png",
-		"logo": "/sdp/mos/nclogo1536562894631.png",
-		"background": "/sdp/mos/nclogo1536562899324.png"
-	}, {
-		"number": 53,
-		"name": "Супер (+2)",
-		"id": 241912053,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ural/nclogo1536562978746.png",
-		"logo": "/sdp/ural/nclogo1536562981664.png",
-		"background": "/sdp/ural/nclogo1536562984578.png"
-	}, {
-		"number": 55,
-		"name": "Супер (+4)",
-		"id": 251519201,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1536563027717.png",
-		"logo": "/sdp/sib/nclogo1536563031546.png",
-		"background": "/sdp/sib/nclogo1536563034126.png"
-	}, {
-		"number": 56,
-		"name": "Супер (+7)",
-		"id": 343485335,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1536563071068.png",
-		"logo": "/sdp/dv/nclogo1536563073670.png",
-		"background": "/sdp/dv/nclogo1536563076039.png"
-	}, {
-		"number": 57,
-		"name": "Хабар 24 HD",
-		"id": 150483391,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_HABARHD/variant.m3u8"
-		}],
-		"themes": [14, 19],
-		"full_logo": "/sdp/mos/nclogo1567408088798.png",
-		"logo": "/sdp/mos/nclogo1567408091206.png",
-		"background": "/sdp/mos/nclogo1567408093774.png"
-	}, {
-		"number": 58,
-		"name": "Первый российский национальный канал HD",
-		"id": 158312707,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1RNKHD/variant.m3u8"
-		}],
-		"themes": [14, 19],
-		"full_logo": "/sdp/mos/nclogo1573487053750.png",
-		"logo": "/sdp/mos/nclogo1573487056003.png",
-		"background": "/sdp/mos/nclogo1573487058528.png"
-	}, {
-		"number": 59,
-		"name": "Дума ТВ",
-		"id": 162062755,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/variant.m3u8"
-		}],
-		"themes": [2],
-		"full_logo": "/sdp/mos/nclogo1576048672199.png",
-		"logo": "/sdp/mos/nclogo1576048675076.png",
-		"background": "/sdp/mos/nclogo1576048677871.png"
-	}, {
+	},   {
 		"number": 75,
 		"name": "Победа HD",
 		"id": 136173557,
@@ -2483,7 +849,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/pobeda-3770/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1554828871350.png",
@@ -2502,32 +868,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/mosfilm-4985/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1609141825334.png",
 		"logo": "/sdp/mos/nclogo1609141828155.png",
 		"background": "/sdp/mos/nclogo1609141830469.png"
-	}, {
-		"number": 99,
-		"name": "Мосфильм",
-		"id": 207472424,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8"
-		}],
-		"themes": [8],
-		"full_logo": "/sdp/mos/nclogo1598881796581.png",
-		"logo": "/sdp/mos/nclogo1598881798998.png",
-		"background": "/sdp/mos/nclogo1598881801474.png"
-	}, {
+	},  {
 		"number": 101,
 		"name": "TV1000 Action HD",
 		"id": 80882794,
@@ -2540,7 +887,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8"
+			"url": "http://ttv.forktv.me:8080/tv1000action-487/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514116881.png",
@@ -2559,7 +906,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tv1000-488/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514194654.png",
@@ -2578,51 +925,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/stslove-284/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/mos/nclogo1560865516031.png",
 		"logo": "/sdp/mos/nclogo1560865519500.png",
 		"background": "/sdp/mos/nclogo1560865521853.png"
-	}, {
-		"number": 199,
-		"name": "СТС Love (+2)",
-		"id": 1130957,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "vlg",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/vlg/nclogo1560865421130.png",
-		"logo": "/sdp/vlg/nclogo1560865423552.png",
-		"background": "/sdp/vlg/nclogo1560865429632.png"
-	}, {
-		"number": 193,
-		"name": "СТС Love (+7)",
-		"id": 3090091,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1560865289873.png",
-		"logo": "/sdp/sib/nclogo1560865292418.png",
-		"background": "/sdp/sib/nclogo1560865296332.png"
-	}, {
+	},  {
 		"number": 104,
 		"name": "TV XXI Век",
 		"id": 1130961,
@@ -2635,7 +944,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tvxxi-84/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1524915683636.png",
@@ -2654,7 +963,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/illuzionplus-202/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1524907485988.png",
@@ -2673,7 +982,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/russkyilluzion-201/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1524908003625.png",
@@ -2692,7 +1001,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tv1000russkoekino-489/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1593514220982.png",
@@ -2711,7 +1020,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://31.173.178.110:8004/play/a08t/index.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinokomedia-3738/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1540547028333.png",
@@ -2730,7 +1039,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/paramountcomedy-181/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1497612781530.png",
@@ -2787,7 +1096,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nst-93/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1501847698329.png",
@@ -2806,7 +1115,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/fox-178/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1536308528386.png",
@@ -2825,7 +1134,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/foxlife-94/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1508933868682.png",
@@ -2844,7 +1153,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/fenikspluskino-204/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1546048595577.png",
@@ -2863,7 +1172,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/domkino-42/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1508245859705.png",
@@ -2901,7 +1210,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://31.173.178.110:8004/play/a06l/index.m3u8"
+			"url": "http://ttv.forktv.me:8080/lubimoekino-342/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1524126302829.png",
@@ -2909,7 +1218,7 @@
 		"background": "/sdp/mos/nclogo1524126315524.png"
 	}, {
 		"number": 119,
-		"name": "A2 Про Любовь HD",
+		"name": "Про Любовь HD",
 		"id": 78823248,
 		"is_barker": false,
 		"is_erotic": false,
@@ -2920,7 +1229,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/prolyubov-4778/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1604391038868.png",
@@ -2939,7 +1248,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinouzhas-259/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1573801740209.png",
@@ -2958,7 +1267,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinokomedia-3738/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1508245982973.png",
@@ -2977,7 +1286,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://31.173.178.110:8004/play/a08q/index.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinomiks-167/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547076450742.png",
@@ -2996,7 +1305,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://31.173.178.110:8004/play/a08x/index.m3u8"
+			"url": "http://ttv.forktv.me:8080/muzhskoekino-209/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547076333999.png",
@@ -3015,7 +1324,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/rodnoekino-12/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1565015624437.png",
@@ -3034,7 +1343,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nashenovoekino-35/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1565015608904.png",
@@ -3053,32 +1362,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/paramountchannel-383/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1508933742566.png",
 		"logo": "/sdp/mos/nclogo1508933745399.png",
 		"background": "/sdp/mos/nclogo1508933747887.png"
-	}, {
-		"number": 126,
-		"name": "Paramount Channel",
-		"id": 29944110,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8"
-		}],
-		"themes": [8],
-		"full_logo": "/sdp/mos/nclogo1508246021246.png",
-		"logo": "/sdp/mos/nclogo1508246027079.png",
-		"background": "/sdp/mos/nclogo1508246031078.png"
-	}, {
+	},  {
 		"number": 127,
 		"name": "Кино ТВ HD",
 		"id": 94802108,
@@ -3091,7 +1381,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinotv-381/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1509023376742.png",
@@ -3110,7 +1400,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/zeetv-245/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1606740481616.png",
@@ -3129,7 +1419,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/retrotv-87/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1591391595118.png",
@@ -3148,7 +1438,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/russkyroman-172/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1547078511115.png",
@@ -3167,7 +1457,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/russkybestseller-281/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547077541881.png",
@@ -3186,7 +1476,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/amedia1-629/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1547052339636.png",
@@ -3205,7 +1495,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/russkydetektiv-282/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1547078143787.png",
@@ -3224,7 +1514,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/cinemaru-223/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1606226062657.png",
@@ -3262,7 +1552,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/dorama-8791/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1542025154574.png",
@@ -3300,7 +1590,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/starcinemaua-9965/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533216194484.png",
@@ -3319,7 +1609,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/starfamilyua-9963/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533216208212.png",
@@ -3338,7 +1628,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/bolt-1592/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1533216227542.png",
@@ -3357,32 +1647,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/shottv-150/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1567506565895.png",
 		"logo": "/sdp/mos/nclogo1567506571960.png",
 		"background": "/sdp/mos/nclogo1567506574578.png"
-	}, {
-		"number": 144,
-		"name": "ТАЙНА",
-		"id": 130891596,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1549883467144.png",
-		"logo": "/sdp/mos/nclogo1549883470068.png",
-		"background": "/sdp/mos/nclogo1549883473586.png"
-	}, {
+	},  {
 		"number": 145,
 		"name": "FAN HD",
 		"id": 132876570,
@@ -3414,7 +1685,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/mirseriala-291/index.m3u8"
 		}],
 		"themes": [8],
 		"full_logo": "/sdp/mos/nclogo1557992462388.png",
@@ -3452,7 +1723,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BLOCKBUSTERHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/blokbaster-4476/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602160897116.png",
@@ -3471,7 +1742,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kamedi-4780/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602161415816.png",
@@ -3490,7 +1761,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPOKAZHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kinopokaz-129/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602162513898.png",
@@ -3509,7 +1780,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHKINOPOKAZHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nashkinopokaz-4475/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602163194992.png",
@@ -3528,7 +1799,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHEMUZHSKOEHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nashemuzhskoe-4777/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602164546796.png",
@@ -3547,7 +1818,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PROLUBOVHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/prolyubov-4778/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1602165265366.png",
@@ -3566,7 +1837,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_HITHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/khit-4479/index.m3u8"
 		}],
 		"themes": [8, 19],
 		"full_logo": "/sdp/mos/nclogo1606477583379.png",
@@ -3585,7 +1856,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/bcuhistory-7106/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1508932188283.png",
@@ -3604,7 +1875,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/travelchannel-190/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1533216246776.png",
@@ -3623,7 +1894,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nationalgeographic-143/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1504685847641.png",
@@ -3642,7 +1913,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nationalgeographic-31/index.m3u8"
 		}],
 		"themes": [4],
 		"full_logo": "/sdp/mos/nclogo1535620466339.png",
@@ -3661,7 +1932,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/viasatexplore-79/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1593515024787.png",
@@ -3680,7 +1951,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/viasathistory-78/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1593514427579.png",
@@ -3718,32 +1989,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/moyaplaneta-135/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1575272794154.png",
 		"logo": "/sdp/mos/nclogo1575272795318.png",
 		"background": "/sdp/mos/nclogo1575272798670.png"
-	}, {
-		"number": 206,
-		"name": "Моя Планета",
-		"id": 1131022,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1508246944970.png",
-		"logo": "/sdp/mos/nclogo1508246949925.png",
-		"background": "/sdp/mos/nclogo1508246955333.png"
-	}, {
+	},  {
 		"number": 916,
 		"name": "Discovery Channel HD",
 		"id": 1144543,
@@ -3756,32 +2008,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/discoverychannel-147/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1567606573248.png",
 		"logo": "/sdp/mos/nclogo1567606576529.png",
 		"background": "/sdp/mos/nclogo1567606578908.png"
-	}, {
-		"number": 207,
-		"name": "Discovery Channel",
-		"id": 1131026,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1567606530589.png",
-		"logo": "/sdp/mos/nclogo1567606533967.png",
-		"background": "/sdp/mos/nclogo1567606538113.png"
-	}, {
+	},  {
 		"number": 917,
 		"name": "Animal Planet HD",
 		"id": 1144547,
@@ -3794,32 +2027,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/animalplanet-175/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1548669133906.png",
 		"logo": "/sdp/mos/nclogo1548669138194.png",
 		"background": "/sdp/mos/nclogo1548669141874.png"
-	}, {
-		"number": 208,
-		"name": "Animal Planet",
-		"id": 1131067,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMALPLANET/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1548665652218.png",
-		"logo": "/sdp/mos/nclogo1548665653828.png",
-		"background": "/sdp/mos/nclogo1548665656907.png"
-	}, {
+	},  {
 		"number": 209,
 		"name": "Диалоги о рыбалке HD",
 		"id": 1131071,
@@ -3832,89 +2046,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/dialogiorybalke-4370/index.m3u8"
 		}],
 		"themes": [9, 19],
 		"full_logo": "/sdp/mos/nclogo1544005813039.png",
 		"logo": "/sdp/mos/nclogo1544005815390.png",
 		"background": "/sdp/mos/nclogo1544005826446.png"
-	}, {
-		"number": 210,
-		"name": "Время: далекое и близкое",
-		"id": 158179266,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1599827437095.png",
-		"logo": "/sdp/mos/nclogo1599827439731.png",
-		"background": "/sdp/mos/nclogo1599827442478.png"
-	}, {
-		"number": 211,
-		"name": "ТелеКафе",
-		"id": 158179307,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/variant.m3u8"
-		}],
-		"themes": [12],
-		"full_logo": "/sdp/mos/nclogo1572274549091.png",
-		"logo": "/sdp/mos/nclogo1572274551807.png",
-		"background": "/sdp/mos/nclogo1572274564734.png"
-	}, {
-		"number": 212,
-		"name": "Поехали! HD",
-		"id": 158201763,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1572274940570.png",
-		"logo": "/sdp/mos/nclogo1572274943360.png",
-		"background": "/sdp/mos/nclogo1572274946384.png"
-	}, {
-		"number": 213,
-		"name": "Наука",
-		"id": 2371216,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1606226004172.png",
-		"logo": "/sdp/mos/nclogo1606226009046.png",
-		"background": "/sdp/mos/nclogo1606226011474.png"
-	}, {
+	},  {
 		"number": 905,
 		"name": "Nat Geo Wild HD",
 		"id": 1144529,
@@ -3927,31 +2065,12 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/natgeowild-162/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1504686377748.png",
 		"logo": "/sdp/mos/nclogo1504686390323.png",
 		"background": "/sdp/mos/nclogo1504686398590.png"
-	}, {
-		"number": 214,
-		"name": "Nat Geo Wild",
-		"id": 2370804,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1497532528454.png",
-		"logo": "/sdp/mos/nclogo1497532531823.png",
-		"background": "/sdp/mos/nclogo1497532535403.png"
 	}, {
 		"number": 215,
 		"name": "Охота и рыбалка",
@@ -3965,127 +2084,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/oxotairybalka-88/index.m3u8"
 		}],
 		"themes": [9],
 		"full_logo": "/sdp/mos/nclogo1543854294064.png",
 		"logo": "/sdp/mos/nclogo1543854296468.png",
 		"background": "/sdp/mos/nclogo1543854299243.png"
-	}, {
-		"number": 216,
-		"name": "Загородная жизнь HD",
-		"id": 165095168,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1578653814522.png",
-		"logo": "/sdp/mos/nclogo1578653816896.png",
-		"background": "/sdp/mos/nclogo1578653819841.png"
-	}, {
-		"number": 217,
-		"name": "Food Network HD",
-		"id": 54629546,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8"
-		}],
-		"themes": [12, 19],
-		"full_logo": "/sdp/mos/nclogo1509024287425.png",
-		"logo": "/sdp/mos/nclogo1509024291637.png",
-		"background": "/sdp/mos/nclogo1509024294036.png"
-	}, {
-		"number": 218,
-		"name": "Еда",
-		"id": 98026616,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8"
-		}],
-		"themes": [12],
-		"full_logo": "/sdp/mos/nclogo1527695212533.png",
-		"logo": "/sdp/mos/nclogo1527695215046.png",
-		"background": "/sdp/mos/nclogo1527695218466.png"
-	}, {
-		"number": 219,
-		"name": "Здоровое ТВ",
-		"id": 1144268,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1550742329041.png",
-		"logo": "/sdp/mos/nclogo1550742334765.png",
-		"background": "/sdp/mos/nclogo1550742332498.png"
-	}, {
-		"number": 220,
-		"name": "English Club HD",
-		"id": 123326084,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8"
-		}],
-		"themes": [6, 19],
-		"full_logo": "/sdp/mos/nclogo1551429255318.png",
-		"logo": "/sdp/mos/nclogo1551429255691.png",
-		"background": "/sdp/mos/nclogo1551429263233.png"
-	}, {
-		"number": 221,
-		"name": "Ратник HD",
-		"id": 225784053,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1603973953151.png",
-		"logo": "/sdp/mos/nclogo1603973956246.png",
-		"background": "/sdp/mos/nclogo1603973958679.png"
-	}, {
+	},  {
 		"number": 222,
 		"name": "DTX HD",
 		"id": 101192514,
@@ -4098,7 +2103,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/dtx-25/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1516106158586.png",
@@ -4117,7 +2122,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/discoveryscience-391/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1536686299279.png",
@@ -4136,7 +2141,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/zhivayaplaneta-390/index.m3u8"
 		}],
 		"themes": [4],
 		"full_logo": "/sdp/mos/nclogo1508248235053.png",
@@ -4174,32 +2179,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/muzhskoy-229/index.m3u8"
 		}],
 		"themes": [9],
 		"full_logo": "/sdp/mos/nclogo1551429285309.png",
 		"logo": "/sdp/mos/nclogo1551429286237.png",
 		"background": "/sdp/mos/nclogo1551429293231.png"
-	}, {
-		"number": 250,
-		"name": "Мужской (+6)",
-		"id": 170172127,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY_6/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1551428545997.png",
-		"logo": "/sdp/sib/nclogo1551428543125.png",
-		"background": "/sdp/sib/nclogo1551428552529.png"
-	}, {
+	},  {
 		"number": 945,
 		"name": "Investigation Discovery HD",
 		"id": 77742450,
@@ -4212,70 +2198,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/idxtraru-362/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1602255131051.png",
 		"logo": "/sdp/mos/nclogo1602255133313.png",
 		"background": "/sdp/mos/nclogo1602255135846.png"
-	}, {
-		"number": 227,
-		"name": "Investigation Discovery",
-		"id": 2370583,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1602255044324.png",
-		"logo": "/sdp/mos/nclogo1602255046649.png",
-		"background": "/sdp/mos/nclogo1602255049685.png"
-	}, {
-		"number": 228,
-		"name": "Морской HD",
-		"id": 92150591,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1544548304365.png",
-		"logo": "/sdp/mos/nclogo1544548307158.png",
-		"background": "/sdp/mos/nclogo1544548309677.png"
-	}, {
-		"number": 229,
-		"name": "Просвещение",
-		"id": 2371416,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8"
-		}],
-		"themes": [6],
-		"full_logo": "/sdp/mos/nclogo1509023562186.png",
-		"logo": "/sdp/mos/nclogo1509023565411.png",
-		"background": "/sdp/mos/nclogo1509023567754.png"
-	}, {
+	},  {
 		"number": 230,
 		"name": "Viasat Nature HD",
 		"id": 104701055,
@@ -4288,203 +2217,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/viasatnature-119/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1593514405658.png",
 		"logo": "/sdp/mos/nclogo1593514409937.png",
 		"background": "/sdp/mos/nclogo1593514413702.png"
-	}, {
-		"number": 231,
-		"name": "Доктор",
-		"id": 2350181,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1606226024475.png",
-		"logo": "/sdp/mos/nclogo1606226026830.png",
-		"background": "/sdp/mos/nclogo1606226029874.png"
-	}, {
-		"number": 232,
-		"name": "ZooПарк",
-		"id": 96581917,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1520958807745.png",
-		"logo": "/sdp/mos/nclogo1520958864137.png",
-		"background": "/sdp/mos/nclogo1520958870852.png"
-	}, {
-		"number": 233,
-		"name": "Ocean-TV",
-		"id": 174302170,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1584446942924.png",
-		"logo": "/sdp/mos/nclogo1584446945067.png",
-		"background": "/sdp/mos/nclogo1584446948988.png"
-	}, {
-		"number": 234,
-		"name": "Первый Вегетарианский HD",
-		"id": 165090627,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJVEGETARIANSKIJHD/variant.m3u8"
-		}],
-		"themes": [12, 19],
-		"full_logo": "/sdp/mos/nclogo1578653747671.png",
-		"logo": "/sdp/mos/nclogo1578653750512.png",
-		"background": "/sdp/mos/nclogo1578653753794.png"
-	}, {
-		"number": 235,
-		"name": "Кухня ТВ",
-		"id": 131341238,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8"
-		}],
-		"themes": [12],
-		"full_logo": "/sdp/mos/nclogo1550239277905.png",
-		"logo": "/sdp/mos/nclogo1550239275061.png",
-		"background": "/sdp/mos/nclogo1550239287099.png"
-	}, {
-		"number": 236,
-		"name": "Совершенно секретно",
-		"id": 241192801,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVSEKRETNO/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/ural/nclogo1525680745523.png",
-		"logo": "/sdp/ural/nclogo1525680748724.png",
-		"background": "/sdp/ural/nclogo1525680752433.png"
-	}, {
-		"number": 238,
-		"name": "Ностальгия",
-		"id": 2371192,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1497532835710.png",
-		"logo": "/sdp/mos/nclogo1497532840919.png",
-		"background": "/sdp/mos/nclogo1497532844481.png"
-	}, {
-		"number": 239,
-		"name": "Дикий",
-		"id": 108996253,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8"
-		}],
-		"themes": [9],
-		"full_logo": "/sdp/mos/nclogo1524500817056.png",
-		"logo": "/sdp/mos/nclogo1524500819461.png",
-		"background": "/sdp/mos/nclogo1524500822669.png"
-	}, {
-		"number": 240,
-		"name": "История",
-		"id": 33334397,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1508249037876.png",
-		"logo": "/sdp/mos/nclogo1508249041035.png",
-		"background": "/sdp/mos/nclogo1508249044273.png"
-	}, {
-		"number": 241,
-		"name": "Ключ",
-		"id": 1131079,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KEY/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1584530445737.png",
-		"logo": "/sdp/mos/nclogo1584530449181.png",
-		"background": "/sdp/mos/nclogo1584530452449.png"
-	}, {
+	},  {
 		"number": 242,
 		"name": "Оружие",
 		"id": 2371393,
@@ -4497,51 +2236,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/oruzhie-366/index.m3u8"
 		}],
 		"themes": [9],
 		"full_logo": "/sdp/mos/nclogo1547125351834.png",
 		"logo": "/sdp/mos/nclogo1547125359277.png",
 		"background": "/sdp/mos/nclogo1547125363880.png"
-	}, {
-		"number": 244,
-		"name": "Тайны Галактики HD",
-		"id": 136126766,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1556085221587.png",
-		"logo": "/sdp/mos/nclogo1556085224880.png",
-		"background": "/sdp/mos/nclogo1556085228102.png"
-	}, {
-		"number": 246,
-		"name": "Kazakh TV HD",
-		"id": 150515927,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/variant.m3u8"
-		}],
-		"themes": [14, 19],
-		"full_logo": "/sdp/mos/nclogo1567408629631.png",
-		"logo": "/sdp/mos/nclogo1567408632269.png",
-		"background": "/sdp/mos/nclogo1567408635263.png"
-	}, {
+	},  {
 		"number": 247,
 		"name": "Живая природа HD",
 		"id": 160772386,
@@ -4554,70 +2255,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/zhivayapriroda-324/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1574337312666.png",
 		"logo": "/sdp/mos/nclogo1574337315945.png",
 		"background": "/sdp/mos/nclogo1574337318342.png"
-	}, {
-		"number": 248,
-		"name": "Глазами туриста HD",
-		"id": 160772212,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8"
-		}],
-		"themes": [4, 19],
-		"full_logo": "/sdp/mos/nclogo1574337364513.png",
-		"logo": "/sdp/mos/nclogo1574337368325.png",
-		"background": "/sdp/mos/nclogo1574337371581.png"
-	}, {
-		"number": 249,
-		"name": "TV BRICS",
-		"id": 171810637,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRICSTV/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1581924360780.png",
-		"logo": "/sdp/mos/nclogo1581924362839.png",
-		"background": "/sdp/mos/nclogo1581924367023.png"
-	}, {
-		"number": 250,
-		"name": "#КтоКуда",
-		"id": 210897993,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/variant.m3u8"
-		}],
-		"themes": [4],
-		"full_logo": "/sdp/mos/nclogo1600069016797.png",
-		"logo": "/sdp/mos/nclogo1600069019525.png",
-		"background": "/sdp/mos/nclogo1600069022273.png"
-	}, {
+	},  {
 		"number": 251,
 		"name": "Арсенал HD",
 		"id": 218540344,
@@ -4630,7 +2274,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/arsenaltv-387/index.m3u8"
 		}],
 		"themes": [4, 19],
 		"full_logo": "/sdp/mos/nclogo1602160177490.png",
@@ -4649,7 +2293,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nickelodeonhd-174/index.m3u8"
 		}],
 		"themes": [5, 19],
 		"full_logo": "/sdp/mos/nclogo1497612622596.png",
@@ -4668,7 +2312,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nickelodeonru-21/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1497532874111.png",
@@ -4687,51 +2331,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/disney-57/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/ct/nclogo1544172455207.png",
 		"logo": "/sdp/ct/nclogo1544172458207.png",
 		"background": "/sdp/ct/nclogo1544172461460.png"
-	}, {
-		"number": 350,
-		"name": "Disney (+4)",
-		"id": 1144307,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1544172566157.png",
-		"logo": "/sdp/sib/nclogo1544172568072.png",
-		"background": "/sdp/sib/nclogo1544172573341.png"
-	}, {
-		"number": 351,
-		"name": "Disney (+7)",
-		"id": 52920,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1544172491462.png",
-		"logo": "/sdp/dv/nclogo1544172492576.png",
-		"background": "/sdp/dv/nclogo1544172500530.png"
-	}, {
+	},  {
 		"number": 956,
 		"name": "Мульт HD",
 		"id": 84779285,
@@ -4744,32 +2350,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/mult-200/index.m3u8"
 		}],
 		"themes": [5, 19],
 		"full_logo": "/sdp/mos/nclogo1575272877044.png",
 		"logo": "/sdp/mos/nclogo1575272879591.png",
 		"background": "/sdp/mos/nclogo1575272882540.png"
-	}, {
-		"number": 303,
-		"name": "Мульт",
-		"id": 39680352,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8"
-		}],
-		"themes": [5],
-		"full_logo": "/sdp/mos/nclogo1508249520154.png",
-		"logo": "/sdp/mos/nclogo1508249527551.png",
-		"background": "/sdp/mos/nclogo1508249532066.png"
-	}, {
+	},  {
 		"number": 304,
 		"name": "Уникум",
 		"id": 1144308,
@@ -4801,7 +2388,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/radostmoya-300/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1608897860800.png",
@@ -4820,7 +2407,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tiji-218/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1606126555684.png",
@@ -4839,7 +2426,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/cartoonnetwork-52/index.m3u8"
 		}],
 		"themes": [5, 19],
 		"full_logo": "/sdp/mos/nclogo1533310367347.png",
@@ -4858,7 +2445,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/mama-90/index.m3u8"
 		}],
 		"themes": [10],
 		"full_logo": "/sdp/mos/nclogo1508249698461.png",
@@ -4877,7 +2464,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/detskymir-32/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1565764479109.png",
@@ -4896,7 +2483,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/multimuzyka-156/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1513672997795.png",
@@ -4915,7 +2502,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/jimjam-166/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1533107529440.png",
@@ -4934,7 +2521,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/gulligirl-217/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1536766285308.png",
@@ -4953,7 +2540,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/nickjr-240/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1536655049310.png",
@@ -4972,7 +2559,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/babytv-360/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1497600455920.png",
@@ -4991,7 +2578,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/boomerang-286/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1497600481796.png",
@@ -5010,7 +2597,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/o_-182/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1508249739753.png",
@@ -5029,7 +2616,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/vgostiaxuskazki-193/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1509023895504.png",
@@ -5048,7 +2635,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/davinci-120/index.m3u8"
 		}],
 		"themes": [6],
 		"full_logo": "/sdp/mos/nclogo1593514521243.png",
@@ -5067,7 +2654,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/malysh-788/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1572275752333.png",
@@ -5086,7 +2673,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/multimania-116/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1581354305394.png",
@@ -5105,7 +2692,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/multimania-116/index.m3u8"
 		}],
 		"themes": [5],
 		"full_logo": "/sdp/mos/nclogo1581064440935.png",
@@ -5124,7 +2711,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/stskidshd-522/index.m3u8"
 		}],
 		"themes": [5, 19],
 		"full_logo": "/sdp/mos/nclogo1534923709826.png",
@@ -5143,32 +2730,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/tlc-189/index.m3u8"
 		}],
 		"themes": [10, 19],
 		"full_logo": "/sdp/mos/nclogo1497613030115.png",
 		"logo": "/sdp/mos/nclogo1497613034654.png",
 		"background": "/sdp/mos/nclogo1497613038266.png"
-	}, {
-		"number": 400,
-		"name": "TLC",
-		"id": 1144372,
-		"is_barker": true,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TLC/variant.m3u8"
-		}],
-		"themes": [10],
-		"full_logo": "/sdp/mos/nclogo1508249993375.png",
-		"logo": "/sdp/mos/nclogo1508249997849.png",
-		"background": "/sdp/mos/nclogo1508250001293.png"
-	}, {
+	},  {
 		"number": 401,
 		"name": "Бобёр",
 		"id": 69997157,
@@ -5200,32 +2768,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/kvntv-3452/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/mos/nclogo1516106341694.png",
 		"logo": "/sdp/mos/nclogo1516106347242.png",
 		"background": "/sdp/mos/nclogo1516106349623.png"
-	}, {
-		"number": 403,
-		"name": "World Fashion Channel HD",
-		"id": 1144569,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8"
-		}],
-		"themes": [10, 19],
-		"full_logo": "/sdp/mos/nclogo1509023995121.png",
-		"logo": "/sdp/mos/nclogo1509023998173.png",
-		"background": "/sdp/mos/nclogo1509024000841.png"
-	}, {
+	},  {
 		"number": 404,
 		"name": "Сарафан",
 		"id": 1144464,
@@ -5238,32 +2787,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/sarafan-117/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/mos/nclogo1508250158770.png",
 		"logo": "/sdp/mos/nclogo1508250162233.png",
 		"background": "/sdp/mos/nclogo1508250167288.png"
-	}, {
-		"number": 405,
-		"name": "Анекдот ТВ",
-		"id": 91984073,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8"
-		}],
-		"themes": [3],
-		"full_logo": "/sdp/mos/nclogo1497600539849.png",
-		"logo": "/sdp/mos/nclogo1497600543325.png",
-		"background": "/sdp/mos/nclogo1497600546682.png"
-	}, {
+	},  {
 		"number": 406,
 		"name": "2x2",
 		"id": 1144360,
@@ -5276,89 +2806,13 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8"
+			"url": "http://ttv.forktv.me:8080/2na2-100/index.m3u8"
 		}],
 		"themes": [3],
 		"full_logo": "/sdp/mos/nclogo1508250192087.png",
 		"logo": "/sdp/mos/nclogo1508250196734.png",
 		"background": "/sdp/mos/nclogo1508250201129.png"
-	}, {
-		"number": 450,
-		"name": "2x2 (+2)",
-		"id": 1000533,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "ural",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/ural/nclogo1523445017414.png",
-		"logo": "/sdp/ural/nclogo1523445019204.png",
-		"background": "/sdp/ural/nclogo1523445024644.png"
-	}, {
-		"number": 451,
-		"name": "2x2 (+4)",
-		"id": 1144360,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "sib",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/sib/nclogo1523445056609.png",
-		"logo": "/sdp/sib/nclogo1523445058236.png",
-		"background": "/sdp/sib/nclogo1523445064669.png"
-	}, {
-		"number": 452,
-		"name": "2x2 (+7)",
-		"id": 52891,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "dv",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8"
-		}],
-		"themes": [15],
-		"full_logo": "/sdp/dv/nclogo1523445085426.png",
-		"logo": "/sdp/dv/nclogo1523445088640.png",
-		"background": "/sdp/dv/nclogo1523445100385.png"
-	}, {
-		"number": 407,
-		"name": "TV5 Monde HD",
-		"id": 105955523,
-		"is_barker": false,
-		"is_erotic": false,
-		"description": "mos",
-		"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-		},
-		"sources": [{
-			"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDEHD/variant.m3u8"
-		}],
-		"themes": [14, 19],
-		"full_logo": "/sdp/mos/nclogo1519714043765.png",
-		"logo": "/sdp/mos/nclogo1519714047392.png",
-		"background": "/sdp/mos/nclogo1519714051427.png"
-	}, {
+	},  {
 		"number": 408,
 		"name": "ТНТ4",
 		"id": 86274026,
