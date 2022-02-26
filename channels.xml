@@ -13,7 +13,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://ttv.forktv.me:8080/vipcomedy-194/index.m3u8"
+			"url": "http://62.209.144.207/channel/64190784/index.m3u8"
 		}],
 		"themes": [17, 19],
 		"full_logo": "/sdp/mos/nclogo1589611644340.png",
@@ -32,7 +32,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://ttv.forktv.me:8080/vipcomedy-194/index.m3u8"
+			"url": "http://62.209.144.207/channel/64190784/index.m3u8"
 		}],
 		"themes": [17],
 		"full_logo": "/sdp/ural/nclogo1525680745523.png",
@@ -51,7 +51,7 @@
 			"age_value": 0
 		},
 		"sources": [{
-			"url": "http://ttv.forktv.me:8080/pervypl2-701/index.m3u8"
+			"url": "http://62.209.144.207/channel/64190784/index.m3u8"
 		}],
 		"themes": [1, 19],
 		"full_logo": "/sdp/mos/nclogo1529398530175.png",
